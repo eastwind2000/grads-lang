@@ -1,0 +1,24 @@
+{
+	"name": "grads",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"scripts": {
+		"update-grammar": "node ../../build/npm/update-grammar.js textmate/lua.tmbundle Syntaxes/Lua.plist ./syntaxes/grads.tmLanguage.json"
+	},
+	"contributes": {
+		"languages": [{
+			"id": "grads",
+			"extensions": [ ".gs", ".ctl" ],
+			"aliases": [ "GrADS-script" ],
+			"configuration": "./language-configuration.json"
+		}],
+		"grammars": [{
+			"language": "grads",
+			"scopeName": "source.gs",
+			"path": "./syntaxes/grads.tmLanguage.json"
+		}]
+	}
+}

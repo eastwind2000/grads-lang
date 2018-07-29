@@ -1,0 +1,9 @@
+[{
+	"name": "grads",
+	"version": "0.0.0",
+	"license": "GrADS Bundle License",
+	"repositoryURL": "Grads",
+	"licenseDetail": [
+		"Copyright (c) OpenGrADS 2.0 Language Highlight for VS.code project authors eastwind2000@sina.com"
+			]
+}]
