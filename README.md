@@ -10,3 +10,9 @@
 
 - Pull all files to ~\Microsoft VS Code\resources\app\extensions
 - Reload VS.code window or restart VS.code to make effect.
+
+
+## Buglist
+- Some Keywords can not be highlighted for unkonw reason.
+- reinit,  endvars and some function names.
+
