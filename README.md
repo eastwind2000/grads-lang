@@ -6,6 +6,8 @@
 - Prototype for testing.
 - By eastwind2000@sina.com
 
+![ScreenPng](https://github.com/eastwind2000/grads-lang/blob/master/Snipaste_2018-07-30_08-54-26.png)
+
 ## Install
 
 - Pull all files to ~\Microsoft VS Code\resources\app\extensions
