@@ -4,7 +4,7 @@
 
 - GrADS language highlight-supporting for VS.code based on the color-scheme of Lua
 - Prototype for testing.
-- By chentao@cma.gov.cn
+- By eastwind2000@sina.com
 
 ## Install
 
