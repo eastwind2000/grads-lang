@@ -15,6 +15,6 @@
 
 
 ## Buglist
-- Some Keywords can not be highlighted for unkonw reason.
-- reinit,  endvars and some function names.
+- Some Keywords can not be highlighted for unkown reasons.
+- reinit, endvars and some function names.
 
